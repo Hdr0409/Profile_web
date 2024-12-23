@@ -1,0 +1,17 @@
+div{
+    display: flex;
+}   
+
+.title1{
+    padding-right: 0.3%;
+}
+
+.title2{
+    opacity: 0%;
+}
+
+.title2:hover{
+    transition: 1s;
+    opacity: 100%;
+}
+
